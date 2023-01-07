@@ -102,7 +102,7 @@ Clone this repository to your desired folder:[Add link]
 
  GitHub: [@githubhandle](https://github.com/bernabasy)
  LinkedIn: [LinkedIn](https://www.linkedin.com/in/bernabas-yosef-74b571186)
-Twitter:[twitter]https://twitter.com/bernabasjosef 
+Twitter: [twitter](https://twitter.com/bernabasjosef) 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -129,6 +129,6 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](Add link)licensed.
+This project is [MIT](https://github.com/bernabasy/webpack-Templet/blob/main/LICENSE)licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
